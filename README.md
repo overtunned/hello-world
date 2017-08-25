@@ -1,2 +1,3 @@
 # hello-world
-new repository
+hi humans
+i just made a repository in github
